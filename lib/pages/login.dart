@@ -138,14 +138,6 @@ class Login extends StatelessWidget {
                         width: 111,
                       ),
                     ),
-                    // Positioned(
-                    //   bottom: 0,
-                    //   right: 0,
-                    //   child: Image.asset(
-                    //     "assets/images/login_bottom.png",
-                    //     width: 111,
-                    //   ),
-                    // ),
                   ],
                 )
               ],
